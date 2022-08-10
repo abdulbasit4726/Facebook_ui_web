@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "a2c1b43a5043cc21a1c5bafb8322a95d2234b53d346373612eef411ef89b6f2e"
+build_start_time: [1660149116, 875264167]
+build_end_time: [1660149117, 716742992]
+inputs:
+  "/Users/macbook/Desktop/Practice/Flutter/flutter_facebook_ui/macos/Flutter/GeneratedPluginRegistrant.swift": [1660149096, 651701450]
+  "/Users/macbook/Desktop/Practice/Flutter/flutter_facebook_ui/macos/Runner/AppDelegate.swift": [1646231532, 0]
+  "/Users/macbook/Desktop/Practice/Flutter/flutter_facebook_ui/macos/Runner/MainFlutterWindow.swift": [1646231532, 0]
